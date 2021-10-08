@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud, food and travelling. 
 - 🌱 I’m currently learning - a lot of things 
 - 💞️ I’m looking to collaborate on all things related to cloud and specifically AWS. 
-- 📫 Drop me note and reach back to you. 
+- 📫 Drop me note on https://twitter.com/cdharma734 and I will reach back to you. 
 
 <!---
 cdharma/cdharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
